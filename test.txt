@@ -1,0 +1,206 @@
+== DATE:
+
+    Monday, January 27, 2025 at 8:36:02 PM Eastern Standard Time
+    
+    2025-01-28T01:36:02Z
+
+
+
+== VERSION INFO:
+
+    Tools: 14C18
+    OS:    21H1320
+    PID:   20066
+    Model: MacBook Pro
+    Arch:  x86_64h
+
+
+
+== ENVIRONMENT:
+
+    openFiles = [
+        /Users/ping/Documents/MediaProject/Landmarks/Landmarks/ContentView.swift
+    ]
+    wantsNewBuildSystem = true
+    newBuildSystemAvailable = true
+    activeScheme = Landmarks
+    activeRunDestination = My Mac variant macos x86_64
+    workspaceArena = [x]
+    buildArena = [x]
+    buildableEntries = [
+        Landmarks.app
+    ]
+
+
+
+== SELECTED RUN DESTINATION:
+
+    name = My Mac
+    eligible = true
+    sdk = Optional(<DVTSDK:0x7feddf711b90:'macosx13.1':macOS 13.1:<DVTFilePath:0x60000046f2c0:'/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk'>>)
+    variant = Optional("macos")
+    device = Optional(<DVTLocalComputer: 0x7fede0433ce0 (My Mac | x86_64h)>)
+
+
+
+== SELECTED RUN DESTINATION:
+
+    macOS 13.1 | macos | x86_64 | MacBook Pro | no proxy
+    
+    Destination Preferences {
+        platform: macos
+        platformSpecifier: macos
+        deviceName: My Mac
+        deviceModel: MacBook Pro
+        deviceIdentifier: dvtdevice-local-computer:localhost
+        sdkVariant: macos
+        architecture: x86_64
+        sdkSpecifier: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
+        sdkVersion: 13.1
+        runtimeVersion: 12.7.6
+    }
+    
+    Proxy:
+    Destination Preferences {
+    }
+
+
+
+== SESSION GROUP 10054:
+
+    workspace identifier: WorkspaceIdentifier(identifier: F24F66DC-8B6C-4062-9B45-44CED4E61859)
+    providers: [
+        ContentView_Previews /Users/ping/Documents/MediaProject/Landmarks/Landmarks/ContentView.swift
+    ]
+    translation units: [
+        /Users/ping/Documents/MediaProject/Landmarks/Landmarks/ContentView.swift
+    ]
+    attributes: EditorSettingsCollection(storage: [PreviewsPipeline.EditorIdentifier(id: 9901): PreviewsPipeline.EditorSettings(defaultSettings: PreviewsPipeline.PreviewSettings(storage: [ObjectIdentifier(0x000000015a21c858): PreviewsPipeline.PreviewSettings.(unknown context at $15a1e6cf8).ValueBox(value: false, isEqual: (Function), isDefaultValue: true), ObjectIdentifier(0x000000015a21c870): PreviewsPipeline.PreviewSettings.(unknown context at $15a1e6cf8).ValueBox(value: false, isEqual: (Function), isDefaultValue: false)]), appPreviewDestinationRequirements: PreviewsPipeline.DestinationRequirements(rule: PreviewsPipeline.DestinationRequirements.(unknown context at $15a1d9b40).Rule.none), isAppPreviewEnabled: false, _isLightboxEnabled: PreviewsFoundation.UserDefault<Swift.Bool>(key: "UVCanvasEnablePreviewShowAll", cachedValue: false, encoder: Foundation.JSONEncoder), suppressAppPreviewWhenPreviewProvidersArePresent: false, storage: [PreviewsPipeline.EditorSettings.(unknown context at $15a1e18c8).Key.previewInstance(ContentView_Previews[0]): PreviewsPipeline.PreviewSettings(storage: [ObjectIdentifier(0x000000015a21c870): PreviewsPipeline.PreviewSettings.(unknown context at $15a1e6cf8).ValueBox(value: true, isEqual: (Function), isDefaultValue: true)])])])
+    session: 10055
+    request sessions: [
+        Content View | ContentView_Previews: 10077
+    ]
+
+
+
+== UPDATE SESSION 10055:
+
+    Start Date: Monday, January 27, 2025 at 8:33:20 PM Eastern Standard Time
+    Preview Provider {
+        My Mac {
+            dvtDevice: My Mac
+            buildNumber: 12.7.6 (21H1320)
+            arch: x86_64h
+        }
+        pid: 20583
+        host bundle: 
+        com.flowlam.Landmarks {
+            url: file:///Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug/Landmarks.app
+            version: 10060
+            signingInformation: 
+            Code Signing {
+                identifier: com.flowlam.Landmarks
+                hasGetTaskAllow: false
+                isSandboxed: true
+            }
+            attributes: [
+                ObjectIdentifier(0x000000015a216198): ["DYLD_FRAMEWORK_PATH": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug", "__XPC_DYLD_FRAMEWORK_PATH": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug", "__XCODE_BUILT_PRODUCTS_DIR_PATHS": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug", "SQLITE_ENABLE_THREAD_ASSERTIONS": "1", "OS_ACTIVITY_DT_MODE": "YES", "PACKAGE_RESOURCE_BUNDLE_URL": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug", "__XPC_DYLD_LIBRARY_PATH": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug", "DYLD_LIBRARY_PATH": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug"],
+                ObjectIdentifier(0x0000000158b07d30): nil,
+                ObjectIdentifier(0x000000015a2161b0): ["-NSDocumentRevisionsDebugMode", "YES"],
+            ]
+        }
+    }
+    Preview Identities {
+        ContentView_Previews[0] {
+            contentType: Element
+            contextType: application
+            index: 0
+            interfaceOrientation: portrait
+            layout: device
+            supportsLive: true
+            supportsOnDevice: true
+        }
+    }
+    Build Graph {
+        target app Landmarks.app (#1)
+           translationUnit ContentView.swift (#2)
+           Preview Provider Content View Content View (#3)
+    }
+    Update Plan {
+        macOS [x86_64 macosx13.1 macos] (MacBook Pro, F76F6164-738C-5397-A2D4-A8E4DCE32DCC-macosx13.1-x86_64-macos), [], thinning enabled) {
+            Destination: My Mac dvtdevice-local-computer:localhost | default device for macos [
+                Landmarks app - Previews {
+                    execution points [
+                        provider Landmarks.ContentView_Previews
+                    ]
+                    translation units [
+                        ContentView.swift (in Landmarks.app)
+                    ]
+                    modules [
+                        Landmarks.app
+                    ]
+                }
+            ]
+        }
+    }
+
+
+
+== UPDATE SESSION 10077:
+
+    Start Date: Monday, January 27, 2025 at 8:33:23 PM Eastern Standard Time
+    Preview {
+        My Mac {
+            dvtDevice: My Mac
+            buildNumber: 12.7.6 (21H1320)
+            arch: x86_64h
+        }
+        pid: 20583
+        host bundle: 
+        com.flowlam.Landmarks {
+            url: file:///Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug/Landmarks.app
+            version: 10060
+            signingInformation: 
+            Code Signing {
+                identifier: com.flowlam.Landmarks
+                hasGetTaskAllow: false
+                isSandboxed: true
+            }
+            attributes: [
+                ObjectIdentifier(0x000000015a216198): ["DYLD_FRAMEWORK_PATH": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug", "__XPC_DYLD_FRAMEWORK_PATH": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug", "__XCODE_BUILT_PRODUCTS_DIR_PATHS": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug", "SQLITE_ENABLE_THREAD_ASSERTIONS": "1", "OS_ACTIVITY_DT_MODE": "YES", "PACKAGE_RESOURCE_BUNDLE_URL": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug", "__XPC_DYLD_LIBRARY_PATH": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug", "DYLD_LIBRARY_PATH": "/Users/ping/Library/Developer/Xcode/DerivedData/Landmarks-dxfxvssuvxlbfjeqqjdkkivrugtz/Build/Intermediates.noindex/Previews/Landmarks/Products/Debug"],
+                ObjectIdentifier(0x0000000158b07d30): nil,
+                ObjectIdentifier(0x000000015a2161b0): ["-NSDocumentRevisionsDebugMode", "YES"],
+            ]
+        }
+    }
+    Build Graph {
+        target app Landmarks.app (#1)
+           translationUnit ContentView.swift (#2)
+           Preview   (#3)
+    }
+    Update Plan {
+        macOS [x86_64 macosx13.1 macos] (MacBook Pro, F76F6164-738C-5397-A2D4-A8E4DCE32DCC-macosx13.1-x86_64-macos), [], thinning enabled) {
+            Destination: My Mac dvtdevice-local-computer:localhost | default device for macos [
+                Landmarks app - Previews {
+                    execution points [
+                        preview Landmarks.ContentView_Previews.0 "" (application)
+                    ]
+                    translation units [
+                        ContentView.swift (in Landmarks.app)
+                    ]
+                    modules [
+                        Landmarks.app
+                    ]
+                }
+            ]
+        }
+    }
+
+
+
+== POWER STATE LOGS:
+
+    1/27/2025, 7:50 PM Received power source state: Battery Powered (lowPowerMode: false, status: charged, level: 100%)
+    1/27/2025, 7:50 PM No device power state user override user default value.Current power state: Full Power
+
+
